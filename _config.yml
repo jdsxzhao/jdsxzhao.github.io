@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: zxy的博客
+title: jdsxzhao的博客
 email: jdsxzhao0@gmail.com
 author: jdsxzhao
 
@@ -43,7 +43,7 @@ author: jdsxzhao
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  zxy的第一个个人博客
+  jdsxzhao的第一个个人博客
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
